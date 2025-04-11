@@ -91,6 +91,8 @@ Social media platforms such as Twitter (X) provide real-time insights into publi
 
 ---
 
-## 📜 License
+## 📜 License and disclaimer
 
 This project is intended for academic and research purposes only.
+Please follow the academic integrity at
+the University of Toronto
